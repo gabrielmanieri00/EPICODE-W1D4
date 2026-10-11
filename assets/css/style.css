@@ -27,7 +27,7 @@ body {
     list-style-type: none;
 }
 .elements_navbar {
-    
+    cursor:pointer;
     margin: 0 10px;
 }
 
